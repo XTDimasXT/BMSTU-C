@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "add.h": "c",
+        "remove.h": "c",
+        "dynamic_matrix.h": "c"
+    }
+}

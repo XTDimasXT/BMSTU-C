@@ -1,0 +1,14 @@
+#ifndef __ERRORS_H__
+#define __ERRORS_H__
+
+#define SCAN_ROWS_ERROR 1
+#define VALUE_ROWS_ERROR 2
+#define SCAN_COLS_ERROR 3
+#define VALUE_COLS_ERROR 4
+#define ALLOCATE_ERROR 5
+#define SCAN_MATRIX_ERROR 6
+#define SCAN_POWER_ERROR 7
+#define VALUE_POWER_ERROR 8
+#define COMPARE_ERROR 9
+
+#endif // __ERRORS_H__
