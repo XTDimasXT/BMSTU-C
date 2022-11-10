@@ -1,0 +1,2 @@
+#!/bin/bash
+gcov ./*.c

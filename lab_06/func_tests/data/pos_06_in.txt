@@ -1,0 +1,7 @@
+3
+Lemons
+23
+Oranges
+22
+Apples
+31

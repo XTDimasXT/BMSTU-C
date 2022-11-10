@@ -1,0 +1,9 @@
+4
+Lemons
+17
+Oranges
+20
+Apples
+25
+Strawberries
+31
