@@ -1,0 +1,1 @@
+s ../data/neg_01_in.txt

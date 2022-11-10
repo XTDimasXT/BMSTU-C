@@ -1,0 +1,1 @@
+sb ../data/pos_06_in.txt
